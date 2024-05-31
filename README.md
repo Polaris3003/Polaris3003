@@ -50,6 +50,7 @@ SCUT 3rd year Computer Science student. Currently working intern in Meituan. Pas
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![](https://raw.githubusercontent.com/Polaris3003/Polaris3003/main/assets/github-contribution-grid-snake.svg)
+
 <a href="https://github.com/polaris3003">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polaris3003&theme=radical&hide=glsl,python,html,css,javascript" />
 </a>
