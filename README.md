@@ -52,7 +52,7 @@ SCUT 3rd year Computer Science student. Currently working intern in Meituan. Pas
 
 ![](https://raw.githubusercontent.com/polaris3003/polaris3003/main/dist/github-contribution-grid-snake.svg)
 <a href="https://github.com/polaris3003">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polaris3003&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polaris3003&theme=radical&hide=glsl,python,html" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=polaris3003&&show_icons=true&theme=radical&line_height=27&v=5" alt="Polaris's GitHub Stats" />
