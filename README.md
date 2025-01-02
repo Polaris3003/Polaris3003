@@ -1,18 +1,15 @@
  # Polaris :smiley:
  
- <a href="https://twitter.com/ashwanisng">
+ <a href="https://x.com/Polaris01756159">
   <img align="left" alt="Polaris's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/ashwanisng">
-  <img align="left" alt="Polaris's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/ashwanisng">
+<a href="https://github.com/Polaris3003">
   <img align="left" alt="Polaris's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/ashwanisng">
+<a href="https://instagram.com/polaris3003">
   <img align="left" alt="Polaris's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ashwani1406">
+<a href="[https://www.facebook.com/ashwani1406](https://www.facebook.com/profile.php?id=100047471442775)">
   <img align="left" alt="Polaris's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -22,7 +19,7 @@
 Contributer at Pika | Computer Science | Java | Go |  C++ | Competitive Programming
 
 ## About :sunglasses:
-SCUT 3rd year Computer Science student. Currently working intern in Meituan. Passionate about Computer Science, Distributed System and open source. 
+SCUT Computer Science Senior student. Currently working intern in Meituan. Passionate about Computer Science, Distributed System and open source. 
 
 ## Communities :dancers:
 
@@ -34,6 +31,7 @@ SCUT 3rd year Computer Science student. Currently working intern in Meituan. Pas
 - C++
 - Competitive Programming.
 - Distributed System
+- Rust
 
 ## My Github Contributions
 
