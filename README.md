@@ -16,10 +16,10 @@
 <br/>
 <br/>
 
-Contributer at Pika | Computer Science | Java | Go |  C++ | Competitive Programming
+Computer Science | Go | Rust | C++ | Competitive Programming
 
 ## About :sunglasses:
-SCUT Computer Science Senior student. Currently working intern in Meituan. Passionate about Computer Science, Distributed System and open source. 
+Graduate from SCUT Computer Science at 2025. Currently working in Bytedance. Passionate about Computer Science, Distributed System and open source. 
 
 ## Communities :dancers:
 
